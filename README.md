@@ -59,9 +59,9 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=redhat&logoColor=000000" />
 <img src="https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=hackthebox&logoColor=FF0000" />
 <img src="https://img.shields.io/badge/OSINT-0d0000?style=for-the-badge&logo=torproject&logoColor=FF0000" />
-<img src="https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge&logo=virustotal&logoColor=FF0000" />
-<img src="https://img.shields.io/badge/Exploit_Dev-FF0000?style=for-the-badge&logo=linux&logoColor=000000" />
-<img src="https://img.shields.io/badge/Reverse_Engineering-0d0000?style=for-the-badge&logo=gnubash&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/HUMINT-8B0000?style=for-the-badge&logo=virustotal&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/SOCMINT-FF0000?style=for-the-badge&logo=linux&logoColor=000000" />
+<img src="https://img.shields.io/badge/Brute-Force-0d0000?style=for-the-badge&logo=gnubash&logoColor=FF0000" />
 
 <br>
 
