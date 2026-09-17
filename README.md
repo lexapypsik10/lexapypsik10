@@ -93,30 +93,47 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
   
   <br><br>
   
-  <!-- Хакерская гифка: красный код на чёрном фоне -->
-  <img src="https://images.unsplash.com/photo-1673551490248-6058b1b0c2c5?q=80&w=1200&auto=format&fit=crop" width="600" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000;" />
-  <br><br>
-  
   <!-- Дополнительная бегущая строка снизу -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=5000&pause=1500&color=8B0000&center=true&vCenter=true&width=800&lines=%5B+Accessing+encrypted+channel...+%5D;%5B+Decrypting+payload...+%5D;%5B+Connection+established.+%5D" />
 </div>
 
-<!-- ==================== ТОП ЯЗЫКОВ ==================== -->
+<!-- ==================== ЛЮБИМЫЙ ИНСТРУМЕНТ ==================== -->
 <div align="center">
-  <h2>~# ./favorite tool </h2>
-   <img src="https://yt3.googleusercontent.com/GpDEiy2NwC1uDZEbBcLEiwEDRlgI4jnobetsC28thqNlwpcO9JItSXaFmKvqoC2sB1ZnygdO=s900-c-k-c0x00ffffff-no-rj" width="180" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
+  <h2>~# ./favorite_tool</h2>
+  
+  <!-- Логотип Hashcat (стилизованный, в красной рамке) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120" style="filter: hue-rotate(320deg) saturate(3) brightness(0.9); border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000; padding: 10px; background: #0d0000;" />
+  
+  <br><br>
+  
+  <!-- Название инструмента с описанием -->
+  <h3><span style="color:#FF0000;">HASHCAT</span></h3>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=The+world%27s+fastest+password+recovery+tool.;GPU-accelerated.+Multi-hash.+Multi-platform.;When+all+else+fails%2C+hashcat+prevails." />
+  
+  <br>
+  
+  <!-- Бейджи характеристик -->
+  <img src="https://img.shields.io/badge/Type-Password_Recovery-FF0000?style=flat-square&labelColor=0d0000" />
+  <img src="https://img.shields.io/badge/Speed-GPU_Accelerated-8B0000?style=flat-square&labelColor=0d0000" />
+  <img src="https://img.shields.io/badge/Modes-300%2B-FF0000?style=flat-square&labelColor=0d0000" />
+  <img src="https://img.shields.io/badge/Status-ESSENTIAL-8B0000?style=flat-square&labelColor=0d0000" />
 </div>
 
 <br>
 
-<!-- ==================== ГРАФИК АКТИВНОСТИ ==================== -->
+<!-- ==================== КАРТА АКТИВНОСТИ (ЗАМЕНА) ==================== -->
 <div align="center">
-  <h2>~# ./activity --graph</h2>
-  <img src="https://yt3.googleusercontent.com/GpDEiy2NwC1uDZEbBcLEiwEDRlgI4jnobetsC28thqNlwpcO9JItSXaFmKvqoC2sB1ZnygdO=s900-c-k-c0x00ffffff-no-rj&theme=redical&hide_border=true&bg_color=0d0000&color=8B0000&line=FF0000&point=ffffff&area=true&area_color=8B0000" width="100%" />
+  <h2>~# ./attack_map --live</h2>
+  
+  <!-- Атмосферная картинка: красная матрица / терминал -->
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop" width="700" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 40px #FF0000, 0 0 80px #8B0000;" />
+  
+  <br><br>
+  
+  <!-- Бегущая строка с "активностью" -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1200&color=8B0000&center=true&vCenter=true&width=800&lines=%5B+Scanning+targets...+%5D;%5B+Analyzing+hashes...+%5D;%5B+Cracking+in+progress...+%5D;%5B+Access+granted.+%5D" />
 </div>
-
-<br>
-
 <!-- ==================== ЗАГАДОЧНЫЙ ФУТЕР ==================== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=8000&pause=3000&color=8B0000&center=true&vCenter=true&width=700&lines=%5B+The+truth+is+in+the+logs.+%5D;%5B+Some+doors+are+meant+to+stay+closed.+%5D;%5B+See+you+on+the+other+side.+%5D" />
