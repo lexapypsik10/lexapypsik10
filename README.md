@@ -15,7 +15,7 @@
   <tr>
     <td width="70%" align="center" valign="top">
       <!-- ЗАМЕНИ ССЫЛКУ НА СВОЙ АВАТАР -->
-      <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="200px" style="border-radius: 50%; border: 4px solid #FF0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000;" />
+      <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="200px" style="border-radius: 700%; border: 4px solid #FF0000; box-shadow: 0 0 400px #FF0000, 0 0 400px #8B0000;" />
       <br><br>
       
       <!-- Имя с кровавым эффектом -->
