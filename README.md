@@ -19,9 +19,8 @@
   
   <br><br>
   
-  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=FF0000" /></a>
-  <a href="mailto:твоя_почта@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
-  <a href="https://linkedin.com/in/твой_профиль"><img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FF0000" /></a>
+  <a href="https://t.me/alex_unkn0wn"><img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=FF0000" /></a>
+  <a href="mailto:gandraboom@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
   
   <br><br>
   
