@@ -11,7 +11,7 @@
 
 <!-- ==================== АВАТАР И ИМЯ ==================== -->
 <div align="center">
-  <img src="ТВОЯ_ССЫЛКА_НА_АВАТАР" width="180" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
+  <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="180" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
   
   <h1><span style="color:#FF0000;">RED TEAM OPERATOR</span></h1>
   
@@ -43,12 +43,11 @@
 <!-- ==================== КТО Я ==================== -->
 <h2>~# whoami</h2>
 
-**Red Team Operator** и специалист по **информационной безопасности**. Специализируюсь на пентесте, эксплуатации уязвимостей и обходе систем защиты.
+**Brute force specialist** and **information security specialist**. I specialize in pentesting, exploiting vulnerabilities, and bypassing security systems.
 
-Работаю с **Python, Bash, C/C++**, разбираюсь в сетевых протоколах, реверс-инжиниринге и разработке эксплойтов. Участник CTF-соревнований и bug bounty программ.
+I work with **Python, Bash, C#**, and I’m familiar with network protocols and exploit development. I participated in CTF competitions from 2022 to 2026.
 
-Моя цель — находить слабые места раньше, чем это сделают злоумышленники. **Think like an attacker, defend like a pro.**
-
+My goal is to find weaknesses before attackers do. **Think like an attacker, defend like a pro.**
 <br>
 
 <!-- ==================== ЗАГАДОЧНАЯ ЦИТАТА ==================== -->
