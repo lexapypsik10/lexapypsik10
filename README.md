@@ -122,10 +122,6 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 
 <br>
 
-  
-  <!-- Бегущая строка с "активностью" -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1200&color=8B0000&center=true&vCenter=true&width=800&lines=%5B+Scanning+targets...+%5D;%5B+Analyzing+hashes...+%5B+Cracking+in+progress...+%5D;%5B+Access+granted.+%5D" />
-</div>
 <!-- ==================== ЗАГАДОЧНЫЙ ФУТЕР ==================== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=8000&pause=3000&color=8B0000&center=true&vCenter=true&width=700&lines=%5B+The+truth+is+in+the+logs.+%5D;%5B+Some+doors+are+meant+to+stay+closed.+%5D;%5B+See+you+on+the+other+side.+%5D" />
