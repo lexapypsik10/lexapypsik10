@@ -15,7 +15,7 @@
   
   <h1><span style="color:#FF0000;">RED TEAM OPERATOR</span></h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=%3E+lexapypsik10;%3E+%5BACCESS+LEVEL%3A+ROOT%5D;%3E+%5BSTATUS%3A+UNDETECTED%5D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=%3E+alex_unkn0wn;%3E+%5BACCESS+LEVEL%3A+ROOT%5D;%3E+%5BSTATUS%3A+UNDETECTED%5D" />
   
   <br><br>
   
