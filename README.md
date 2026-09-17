@@ -84,17 +84,24 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 
 <br>
 
-<!-- ==================== СТАТИСТИКА ==================== -->
+<!-- ==================== СТАТИСТИКА (ЗАМЕНА) ==================== -->
 <div align="center">
   <h2>~# ./status</h2>
-  <img src="https://avatars.mds.yandex.net/i?id=06f92bbc2afd04c37e2a346f8fdf7e52_l-5876515-images-thumbs&n=13&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
-
-<br>
+  
+  <!-- Бегущая строка с твоим текстом (замени текст после lines=) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=New+tool+is+being+written+by+me.;A+new+script+is+being+tested+on+targets.;The+new+increment+will+be+available+soon.;Wait+for+the+new+version+of+the+script." />
+  
+  <br><br>
+  
+  <!-- GitHub статистика (оставил, но можно убрать) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lexapypsik10&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lexapypsik10&theme=radical&hide_border=true&background=0d0000&ring=8B0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=8B0000&border=8B0000" height="170" />
+</div>
 
 <!-- ==================== ТОП ЯЗЫКОВ ==================== -->
 <div align="center">
   <h2>~# ./favorite tool </h2>
-   <img src="https://yt3.googleusercontent.com/GpDEiy2NwC1uDZEbBcLEiwEDRlgI4jnobetsC28thqNlwpcO9JItSXaFmKvqoC2sB1ZnygdO=s900-c-k-c0x00ffffff-no-rj" width="280" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
+   <img src="https://yt3.googleusercontent.com/GpDEiy2NwC1uDZEbBcLEiwEDRlgI4jnobetsC28thqNlwpcO9JItSXaFmKvqoC2sB1ZnygdO=s900-c-k-c0x00ffffff-no-rj" width="180" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
 </div>
 
 <br>
