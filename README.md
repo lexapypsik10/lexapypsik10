@@ -122,14 +122,6 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 
 <br>
 
-<!-- ==================== КАРТА АКТИВНОСТИ (ЗАМЕНА) ==================== -->
-<div align="center">
-  <h2>~# ./attack_map --live</h2>
-  
-  <!-- Красно-чёрная картинка в тему -->
-  <img src="https://avatars.mds.yandex.net/i?id=823fa5214a54781ad3337c1acd566442_l-3986784-images-thumbs&n=13" width="700" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 40px #FF0000, 0 0 80px #8B0000;" />
-  
-  <br><br>
   
   <!-- Бегущая строка с "активностью" -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1200&color=8B0000&center=true&vCenter=true&width=800&lines=%5B+Scanning+targets...+%5D;%5B+Analyzing+hashes...+%5B+Cracking+in+progress...+%5D;%5B+Access+granted.+%5D" />
