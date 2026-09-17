@@ -15,7 +15,7 @@
   
   <h1><span style="color:#FF0000;">RED TEAM OPERATOR</span></h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=%3E+%D0%A2%D0%92%D0%9E%D0%99+%D0%9D%D0%98%D0%9A;%3E+%5BACCESS+LEVEL%3A+ROOT%5D;%3E+%5BSTATUS%3A+UNDETECTED%5D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=%3E+lexapypsik10;%3E+%5BACCESS+LEVEL%3A+ROOT%5D;%3E+%5BSTATUS%3A+UNDETECTED%5D" />
   
   <br><br>
   
@@ -29,16 +29,6 @@
   <img src="https://img.shields.io/badge/ACCESS-ROOT-FF0000?style=flat-square&labelColor=0d0000" />
   <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-8B0000?style=flat-square&labelColor=0d0000" />
 </div>
-
-<br>
-
-<!-- ==================== ЗАГАДОЧНЫЙ БЛОК ==================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=6000&pause=2000&color=8B0000&center=true&vCenter=true&width=900&lines=%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22;%22In+the+dark%2C+we+see+what+others+miss.%22;%22Every+system+has+a+weakness.+Find+it.%22" />
-</div>
-
-<br>
-
 <!-- ==================== КТО Я ==================== -->
 <h2>~# whoami</h2>
 
