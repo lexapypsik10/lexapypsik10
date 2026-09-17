@@ -87,10 +87,7 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 <!-- ==================== СТАТИСТИКА ==================== -->
 <div align="center">
   <h2>~# ./status</h2>
-  <img src="https://avatars.mds.yandex.net/i?id=06f92bbc2afd04c37e2a346f8fdf7e52_l-5876515-images-thumbs&n=13&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
-  <img src="<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/bf65e895-c57e-471e-a6e3-938955807f3c" />
-&theme=radical&hide_border=true&background=0d0000&ring=8B0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=8B0000&border=8B0000" height="170" />
-</div>
+  <img src="https://avatars.mds.yandex.net/i?id=06f92bbc2afd04c37e2a346f8fdf7e52_l-5876515-images-thumbs&n=13&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="270" />
 
 <br>
 
