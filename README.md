@@ -94,8 +94,7 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
   <br><br>
   
   <!-- Хакерская гифка: красный код на чёрном фоне -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000;" />
-  
+  <img src="https://images.unsplash.com/photo-1673551490248-6058b1b0c2c5?q=80&w=1200&auto=format&fit=crop" width="600" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000;" />
   <br><br>
   
   <!-- Дополнительная бегущая строка снизу -->
