@@ -87,14 +87,14 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 <!-- ==================== СТАТИСТИКА ==================== -->
 <div align="center">
   <h2>~# ./status</h2>
-  <img src="https://avatars.mds.yandex.net/i?id=06f92bbc2afd04c37e2a346f8fdf7e52_l-5876515-images-thumbs&n=13&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="270" />
+  <img src="https://avatars.mds.yandex.net/i?id=06f92bbc2afd04c37e2a346f8fdf7e52_l-5876515-images-thumbs&n=13&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
 
 <br>
 
 <!-- ==================== ТОП ЯЗЫКОВ ==================== -->
 <div align="center">
   <h2>~# ./favorite tool </h2>
-   <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="180" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
+   <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="280" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
 </div>
 
 <br>
@@ -102,7 +102,7 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 <!-- ==================== ГРАФИК АКТИВНОСТИ ==================== -->
 <div align="center">
   <h2>~# ./activity --graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lexapypsik10&theme=redical&hide_border=true&bg_color=0d0000&color=8B0000&line=FF0000&point=ffffff&area=true&area_color=8B0000" width="100%" />
+  <img src="https://yt3.googleusercontent.com/GpDEiy2NwC1uDZEbBcLEiwEDRlgI4jnobetsC28thqNlwpcO9JItSXaFmKvqoC2sB1ZnygdO=s900-c-k-c0x00ffffff-no-rj&theme=redical&hide_border=true&bg_color=0d0000&color=8B0000&line=FF0000&point=ffffff&area=true&area_color=8B0000" width="100%" />
 </div>
 
 <br>
