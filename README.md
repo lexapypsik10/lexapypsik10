@@ -11,7 +11,7 @@
 
 <!-- ==================== АВАТАР И ИМЯ ==================== -->
 <div align="center">
-  <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="180" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
+  <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="280" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
   
   <h1><span style="color:#FF0000;">RED TEAM OPERATOR</span></h1>
   
@@ -94,7 +94,7 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 <!-- ==================== ТОП ЯЗЫКОВ ==================== -->
 <div align="center">
   <h2>~# ./favorite tool </h2>
-   <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="280" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
+   <img src="https://yt3.googleusercontent.com/GpDEiy2NwC1uDZEbBcLEiwEDRlgI4jnobetsC28thqNlwpcO9JItSXaFmKvqoC2sB1ZnygdO=s900-c-k-c0x00ffffff-no-rj" width="280" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
 </div>
 
 <br>
