@@ -93,8 +93,8 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
   
   <br><br>
   
-  <!-- Атмосферная картинка под Red Team -->
-  <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="600" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000;" />
+  <!-- Хакерская гифка: красный код на чёрном фоне -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000;" />
   
   <br><br>
   
