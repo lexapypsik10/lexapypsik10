@@ -18,7 +18,7 @@
       
       <!-- АВАТАР (замени ТВОЯ_ССЫЛКА_НА_АВАТАР) -->
       <div align="center">
-        <img src="ТВОЯ_ССЫЛКА_НА_АВАТАР" width="180px" style="border-radius: 50%; border: 4px solid #FF0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000; display: block; margin: 0 auto;" />
+        <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="180px" style="border-radius: 50%; border: 4px solid #FF0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000; display: block; margin: 0 auto;" />
       </div>
       <br>
       
