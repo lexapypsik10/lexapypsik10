@@ -3,29 +3,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:0d0000&height=220&section=header&text=%E2%98%A0%EF%B8%8F%20RED%20TEAM%20%F0%9F%92%80&fontSize=75&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=InfoSec%20%7C%20Pentest%20%7C%20Offensive%20Security&descAlignY=65&descSize=18" width="100%"/>
 </div>
 
-<!-- ==================== ASCII-ЛОГОТИП ==================== -->
+<!-- ==================== ТЕРМИНАЛЬНАЯ АНИМАЦИЯ ==================== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=%5B%2B%5D+Initializing+attack+vector...;%5B%2B%5D+Bypassing+firewall...;%5B%2B%5D+Privilege+escalation+successful.;%5B%2B%5D+Welcome+to+the+Red+Side.;Access+Granted+%F0%9F%92%80" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- ==================== ОСНОВНОЙ БЛОК ==================== -->
+<!-- ==================== ОСНОВНОЙ БЛОК ПРОФИЛЯ ==================== -->
 <table>
   <tr>
-    <td width="70%" align="center" valign="top">
-      <!-- ЗАМЕНИ ССЫЛКУ НА СВОЙ АВАТАР -->
-      <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="200px" style="border-radius: 700%; border: 4px solid #FF0000; box-shadow: 0 0 400px #FF0000, 0 0 400px #8B0000;" />
-      <br><br>
+    <!-- ЛЕВАЯ КОЛОНКА: АВАТАР И КОНТАКТЫ -->
+    <td width="30%" align="center" valign="middle" style="text-align: center;">
       
-      <!-- Имя с кровавым эффектом -->
+      <!-- АВАТАР (замени ссылку на свою) -->
+      <div align="center">
+        <img src="https://avatars.githubusercontent.com/u/1?v=4" width="180px" style="border-radius: 50%; border: 4px solid #FF0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000; display: block; margin: 0 auto;" />
+      </div>
+      <br>
+      
+      <!-- ИМЯ С КРОВАВЫМ ЭФФЕКТОМ -->
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=300&lines=%3E+%D0%A2%D0%92%D0%9E%D0%99+%D0%9D%D0%98%D0%9A;%3E+RED+TEAM+OPERATOR" alt="Name" />
       
       <br>
       <img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8F_OFFENSIVE_SECURITY-8B0000?style=for-the-badge&logo=hackthebox&logoColor=FF0000" />
       <br><br>
       
-      <!-- Контакты с красным стилем -->
+      <!-- КОНТАКТЫ (замени ссылки) -->
       <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
       <br>
       <a href="mailto:твоя_почта@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -34,14 +38,16 @@
       
       <br><br>
       
-      <!-- Статус-бейджи -->
+      <!-- СТАТУС-БЕЙДЖИ -->
       <img src="https://img.shields.io/badge/STATUS-ACTIVE-FF0000?style=flat-square&labelColor=000000" />
       <br>
       <img src="https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-8B0000?style=flat-square&labelColor=000000" />
       <br>
       <img src="https://img.shields.io/badge/ACCESS-ROOT-FF0000?style=flat-square&labelColor=000000" />
     </td>
-    <td width="65%" valign="top">
+    
+    <!-- ПРАВАЯ КОЛОНКА: ОПИСАНИЕ -->
+    <td width="70%" valign="top">
       
       <h3>💀 ~# whoami</h3>
       <p><b>Red Team Operator</b> и специалист по <b>информационной безопасности</b>. Специализируюсь на пентесте, эксплуатации уязвимостей и обходе систем защиты.</p>
@@ -87,7 +93,7 @@
 
 <br>
 
-<!-- ==================== ГРАФИК АТАК (ЗМЕЙКА) ==================== -->
+<!-- ==================== ЗМЕЙКА КОММИТОВ ==================== -->
 <div align="center">
   <h3>🐍 ~# cat /var/log/attacks.log</h3>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
