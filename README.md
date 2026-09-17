@@ -93,8 +93,8 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 
 <!-- ==================== ТОП ЯЗЫКОВ ==================== -->
 <div align="center">
-  <h2>~# ./langs --top</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexapypsik10&layout=compact&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="180" />
+  <h2>~# ./favorite tool </h2>
+  <img src="https://yt3.googleusercontent.com/GpDEiy2NwC1uDZEbBcLEiwEDRlgI4jnobetsC28thqNlwpcO9JItSXaFmKvqoC2sB1ZnygdO=s900-c-k-c0x00ffffff-no-rj&layout=compact&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="180" />
 </div>
 
 <br>
