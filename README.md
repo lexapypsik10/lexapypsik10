@@ -98,7 +98,7 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
 <!-- ==================== СТАТИСТИКА ==================== -->
 <div align="center">
   <h2>~# ./stats --red-team</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=lexapypsik10&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
+  <img src="https://avatars.mds.yandex.net/i?id=06f92bbc2afd04c37e2a346f8fdf7e52_l-5876515-images-thumbs&n=13&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lexapypsik10&theme=radical&hide_border=true&background=0d0000&ring=8B0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=8B0000&border=8B0000" height="170" />
 </div>
 
