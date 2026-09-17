@@ -16,9 +16,9 @@
     <!-- ЛЕВАЯ КОЛОНКА: АВАТАР И КОНТАКТЫ -->
     <td width="30%" align="center" valign="middle" style="text-align: center;">
       
-      <!-- АВАТАР (замени ссылку на свою) -->
+      <!-- АВАТАР (замени ТВОЯ_ССЫЛКА_НА_АВАТАР) -->
       <div align="center">
-        <img src="https://github.com/lexapypsik10/lexapypsik10/blob/main/photo_5287706763106918622_y.jpg?raw=true" width="180px" style="border-radius: 50%; border: 4px solid #FF0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000; display: block; margin: 0 auto;" />
+        <img src="ТВОЯ_ССЫЛКА_НА_АВАТАР" width="180px" style="border-radius: 50%; border: 4px solid #FF0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000; display: block; margin: 0 auto;" />
       </div>
       <br>
       
@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/%E2%98%A0%EF%B8%8F_OFFENSIVE_SECURITY-8B0000?style=for-the-badge&logo=hackthebox&logoColor=FF0000" />
       <br><br>
       
-      <!-- КОНТАКТЫ (замени ссылки) -->
+      <!-- КОНТАКТЫ -->
       <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
       <br>
       <a href="mailto:твоя_почта@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -104,8 +104,8 @@
 <!-- ==================== СТАТИСТИКА ==================== -->
 <div align="center">
   <h3>📊 ~# ./stats --red-team</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=radical&hide_border=true&background=0d0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=8B0000&border=8B0000" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lexapypsik10&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lexapypsik10&theme=radical&hide_border=true&background=0d0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=8B0000&border=8B0000" height="170" />
 </div>
 
 <br>
@@ -113,7 +113,7 @@
 <!-- ==================== ТОП ЯЗЫКОВ ==================== -->
 <div align="center">
   <h3>💻 ~# ./langs --top</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexapypsik10&layout=compact&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="180" />
 </div>
 
 <br>
@@ -121,7 +121,7 @@
 <!-- ==================== ГРАФИК АКТИВНОСТИ ==================== -->
 <div align="center">
   <h3>📈 ~# ./activity --graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=redical&hide_border=true&bg_color=0d0000&color=FF0000&line=8B0000&point=ffffff&area=true&area_color=8B0000" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lexapypsik10&theme=redical&hide_border=true&bg_color=0d0000&color=FF0000&line=8B0000&point=ffffff&area=true&area_color=8B0000" width="100%" />
 </div>
 
 <br>
