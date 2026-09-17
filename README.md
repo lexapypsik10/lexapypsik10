@@ -102,7 +102,7 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
   <h2>~# ./favorite_tool</h2>
   
   <!-- Логотип Hashcat (стилизованный, в красной рамке) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120" style="filter: hue-rotate(320deg) saturate(3) brightness(0.9); border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000; padding: 10px; background: #0d0000;" />
+  <img src="https://yt3.googleusercontent.com/GpDEiy2NwC1uDZEbBcLEiwEDRlgI4jnobetsC28thqNlwpcO9JItSXaFmKvqoC2sB1ZnygdO=s900-c-k-c0x00ffffff-no-rj" width="120" style="filter: hue-rotate(320deg) saturate(3) brightness(0.9); border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000; padding: 10px; background: #0d0000;" />
   
   <br><br>
   
