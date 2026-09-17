@@ -127,7 +127,7 @@ My goal is to find weaknesses before attackers do. **Think like an attacker, def
   <h2>~# ./attack_map --live</h2>
   
   <!-- Красно-чёрная картинка в тему -->
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop" width="700" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 40px #FF0000, 0 0 80px #8B0000;" />
+  <img src="https://avatars.mds.yandex.net/i?id=823fa5214a54781ad3337c1acd566442_l-3986784-images-thumbs&n=13" width="700" style="border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0 0 40px #FF0000, 0 0 80px #8B0000;" />
   
   <br><br>
   
