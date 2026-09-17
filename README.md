@@ -1,10 +1,10 @@
 <!-- ==================== ВЕРХНЯЯ ШАПКА ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8B0000,100:FF0000&height=220&section=header&text=%E2%98%A0%EF%B8%8F%20RED%20TEAM%20%F0%9F%92%80&fontSize=75&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=InfoSec%20%7C%20Pentest%20%7C%20Offensive%20Security&descAlignY=65&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8B0000,100:FF0000&height=220&section=header&text=RED%20TEAM&fontSize=75&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=InfoSec%20%7C%20Pentest%20%7C%20Offensive%20Security&descAlignY=65&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=%5B%2B%5D+Initializing+attack+vector...;%5B%2B%5D+Bypassing+firewall...;%5B%2B%5D+Privilege+escalation+successful.;%5B%2B%5D+Access+Granted+%F0%9F%92%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=%5B%2B%5D+Initializing+attack+vector...;%5B%2B%5D+Bypassing+firewall...;%5B%2B%5D+Privilege+escalation+successful.;%5B%2B%5D+Access+Granted" />
 </div>
 
 <br>
@@ -13,7 +13,7 @@
 <div align="center">
   <img src="ТВОЯ_ССЫЛКА_НА_АВАТАР" width="180" style="border-radius: 50%; border: 4px solid #8B0000; box-shadow: 0 0 30px #FF0000, 0 0 60px #8B0000, inset 0 0 20px #FF0000;" />
   
-  <h1>💀 <span style="color:#FF0000;">RED TEAM OPERATOR</span> 💀</h1>
+  <h1><span style="color:#FF0000;">RED TEAM OPERATOR</span></h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=%3E+%D0%A2%D0%92%D0%9E%D0%99+%D0%9D%D0%98%D0%9A;%3E+%5BACCESS+LEVEL%3A+ROOT%5D;%3E+%5BSTATUS%3A+UNDETECTED%5D" />
   
@@ -41,7 +41,7 @@
 <br>
 
 <!-- ==================== КТО Я ==================== -->
-<h2>💀 ~# whoami</h2>
+<h2>~# whoami</h2>
 
 **Red Team Operator** и специалист по **информационной безопасности**. Специализируюсь на пентесте, эксплуатации уязвимостей и обходе систем защиты.
 
@@ -59,14 +59,14 @@
 <br>
 
 <!-- ==================== АРСЕНАЛ ==================== -->
-<h2>🩸 ~# cat /etc/arsenal</h2>
+<h2>~# cat /etc/arsenal</h2>
 
 <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,docker,git,vim,regex,mysql,azure,aws" />
 
 <br>
 
 <!-- ==================== СПЕЦИАЛИЗАЦИЯ ==================== -->
-<h2>⚔️ ~# cat /etc/specialization</h2>
+<h2>~# cat /etc/specialization</h2>
 
 <img src="https://img.shields.io/badge/Red_Team-FF0000?style=for-the-badge&logo=redhat&logoColor=000000" />
 <img src="https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=hackthebox&logoColor=FF0000" />
@@ -78,7 +78,7 @@
 <br>
 
 <!-- ==================== ИНСТРУМЕНТЫ ==================== -->
-<h2>🔧 ~# ls /tools</h2>
+<h2>~# ls /tools</h2>
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white" />
@@ -91,14 +91,14 @@
 
 <!-- ==================== ПРЕДУПРЕЖДЕНИЕ ==================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=%E2%9A%A0%EF%B8%8F+WARNING%3A+Unauthorized+access+is+punishable+by+law.;%F0%9F%92%80+All+testing+is+performed+only+with+written+permission.;%F0%9F%94%92+Respect+the+code.+Hack+ethically." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=WARNING%3A+Unauthorized+access+is+punishable+by+law.;All+testing+is+performed+only+with+written+permission.;Respect+the+code.+Hack+ethically." />
 </div>
 
 <br>
 
 <!-- ==================== СТАТИСТИКА ==================== -->
 <div align="center">
-  <h2>📊 ~# ./stats --red-team</h2>
+  <h2>~# ./stats --red-team</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=lexapypsik10&show_icons=true&theme=radical&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lexapypsik10&theme=radical&hide_border=true&background=0d0000&ring=8B0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=8B0000&border=8B0000" height="170" />
 </div>
@@ -107,7 +107,7 @@
 
 <!-- ==================== ТОП ЯЗЫКОВ ==================== -->
 <div align="center">
-  <h2>💻 ~# ./langs --top</h2>
+  <h2>~# ./langs --top</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexapypsik10&layout=compact&theme=radical&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d0000&border_color=8B0000" height="180" />
 </div>
 
@@ -115,7 +115,7 @@
 
 <!-- ==================== ГРАФИК АКТИВНОСТИ ==================== -->
 <div align="center">
-  <h2>📈 ~# ./activity --graph</h2>
+  <h2>~# ./activity --graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lexapypsik10&theme=redical&hide_border=true&bg_color=0d0000&color=8B0000&line=FF0000&point=ffffff&area=true&area_color=8B0000" width="100%" />
 </div>
 
@@ -130,5 +130,5 @@
 
 <!-- ==================== НИЖНИЙ БАННЕР ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0d0000&height=150&section=footer&text=%F0%9F%92%80%20Stay%20dangerous.%20Stay%20anonymous.%20%F0%9F%92%80&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0d0000&height=150&section=footer&text=Stay%20dangerous.%20Stay%20anonymous.&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
